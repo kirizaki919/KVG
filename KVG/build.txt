@@ -1,5 +1,6 @@
 displayName = KVG CRINGE
 author = chris kon
-version = 0.1
+version = 0.2
+homepage = https://github.com/kirizaki919/KVG
 noCompile = false
 modReferences = GlowMaskAPI
