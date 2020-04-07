@@ -1,4 +1,7 @@
 KVG CRINGE is a pretty cringe mod
 
+0.2.1 update
+[Zangetsu] added right click function (need better projectile sprite)
+
 author
 kirizaki919
